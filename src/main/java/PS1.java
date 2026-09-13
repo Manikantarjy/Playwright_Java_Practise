@@ -1,0 +1,15 @@
+//
+//public class PS1 extends PS{
+//
+//    @Test
+//    public void testRun(){
+//        PS2 ps2 = new PS2(3);  //Parameterized Constructor
+//        int a = 3;
+//        doThis();  //Parent class
+//        System.out.println(ps2.increment());
+//        System.out.println(ps2.decrement());
+//        //PS3 ps3 = new PS3(a);
+//        System.out.println(ps2.multiplyThree());
+//
+//    }
+//}

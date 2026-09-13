@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+a,
+.theme_color,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li.current-menu-item > a,
+.services-style-one .inner-box h3:hover,
+.courses-block .inner-box .lower-content h2 a:hover,
+.event-block .inner-box .content-column .content h2 a:hover,
+.event-block .inner-box .content-column .content .detail:hover,
+.news-style-one .inner .lower-content h3 a:hover,
+.main-footer .links-widget .list li a:hover,
+.main-footer .links-widget .list li a:hover::before,
+.main-footer .footer-nav li a:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li.current-menu-item > a,
+.event-block .inner-box .content-column .content .detail,
+.faq-section .accordion-box .block .icon-outer .icon-minus,
+.courses-grid .layout-option li .icon:hover,
+.courses-grid .layout-option li.current .icon,
+.courses-block-two .inner-box .content-column h2 a:hover,
+.event-block-two .inner-box .content-column h2 a:hover,
+.event-block .inner-box .content-column .content h2 a:hover,
+.event-block .inner-box .content-column .content .detail:hover,
+.category-widget .category-inner .list-category li a:hover,
+.sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
+.category-box .category-list .sub-menu > li > a:hover,
+.shop-item .inner-box .lower-content h3 a:hover,
+.sidebar .related-posts .shop-post a, .sidebar .related-posts .shop-post a:hover,
+.instructor-widget .inner-box .instructor-info .follow-btn,
+.page-title .bread-crumb li a:hover,
+.page-title .bread-crumb li a.current,
+.social-icon-four li a:hover,
+.hidden-bar .side-menu ul li a:hover,
+.hidden-bar .side-menu ul > li.current > a,
+.hidden-bar .side-menu ul > li > ul > li.current > a,
+.hidden-bar .side-menu ul.navigation > li > ul > li > a:hover,
+.hidden-bar .side-menu ul.navigation > li.active > a{
+	color:#ec5252;
+}
+
+/*Background Color*/
+
+.main-header .header-top .top-right .login-btn a,
+.main-header .cart-btn .shop-icon .total-count,
+.scroll-to-top:hover,
+.main-header .sticky-header .main-menu .navigation > li:hover > a,
+.main-header .sticky-header .main-menu .navigation > li.current > a,
+.main-header .sticky-header .main-menu .navigation > li.current-menu-item > a,
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.services-style-one .inner-box .icon-box,
+.services-style-one .inner-box:hover .arrow-box,
+.courses-block .inner-box .lower-box .post-meta li.free a,
+.btn-style-three:hover,
+.btn-style-one:hover,
+.pricing-column .inner-box:hover,
+.courses-block-two .inner-box .content-column .lower-box .post-meta .free a,
+.shop-item .inner-box .image .sale,
+.product-details .info-column .add-to-cart,
+.post-share-options .tags a:hover,
+.social-icon-six a:hover,
+.faq-section .faq-search-box .form-group input:focus + button,
+.faq-section .faq-search-box .form-group button:hover,
+.shop-item .inner-box .lower-content .add-cart:hover,
+.ui-menu .ui-menu-item-wrapper.ui-state-active,
+.search-course-form,
+.subscribe-style-one{
+	background-color:#ec5252;
+}
+
+/*Border Color*/
+
+.btn-style-one:hover,
+.btn-style-three:hover,
+.header-style-two .nav-outer .language .dropdown-menu,
+.header-style-two .header-upper .language .dropdown-menu,
+.main-header .header-top .language .dropdown-menu,
+.main-menu .navigation > li > ul > li > a:before,
+.main-menu .navigation > li > ul > li  > ul > li > a:before,
+.faq-section .accordion-box .block .acc-btn.active .icon-outer,
+.shop-item .inner-box .lower-content .add-cart:hover,
+.social-icon-six a:hover,
+.services-style-one .inner-box:hover .arrow-box,
+.instructor-widget .inner-box .instructor-info .follow-btn,
+.ui-menu .ui-menu-item-wrapper.ui-state-active{
+	border-color:#ec5252;
+}
+
+/*Focus Color*/
+
+.faq-section .faq-search-box .form-group input:focus,
+.faq-form .form-group input[type="text"]:focus,
+.faq-form .form-group input[type="password"]:focus,
+.faq-form .form-group input[type="tel"]:focus,
+.faq-form .form-group input[type="email"]:focus,
+.faq-form .form-group select:focus,
+.faq-form .form-group textarea:focus,
+.signup-form .form-group input[type="text"]:focus,
+.signup-form .form-group input[type="password"]:focus,
+.signup-form .form-group input[type="tel"]:focus,
+.signup-form .form-group input[type="email"]:focus,
+.signup-form .form-group select:focus,
+.signup-form .form-group textarea:focus,
+.student-form .form-group input[type="text"]:focus,
+.student-form .form-group input[type="password"]:focus,
+.student-form .form-group input[type="tel"]:focus,
+.student-form .form-group input[type="email"]:focus,
+.student-form .form-group select:focus,
+.student-form .form-group textarea:focus,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form .form-group input[type="text"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group input[type="tel"]:focus,
+.contact-form .form-group input[type="email"]:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus{
+	border-color:#ec5252;
+}
+
+/*RGBA Color*/
+
+.course-info-widget .inner .total-students .student .image .overlaybox{
+	background-color:rgba(255,0,0,0.90);
+}
+
+
+@media only screen and (max-width: 767px){
+
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#ec5252;
+	}
+
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+		background-color:#ec5252;
+	}
+
+}

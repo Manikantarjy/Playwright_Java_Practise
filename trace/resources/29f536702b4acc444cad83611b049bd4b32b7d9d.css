@@ -1,0 +1,108 @@
+.main-header .header-top .top-left ul li .icon,
+.main-slider h2 span,
+.register-form .form-group .get-start,
+.courses-block .inner-box .lower-content .rating .fa,
+.btn-style-two,
+.testimonial-block .inner-box .content .rating .fa,
+.list-style-one li .icon,
+.social-icon-two li a:hover,
+.social-icon-three li a:hover,
+.social-icon-five li a:hover,
+.courses-block-two .inner-box .content-column .rating .fa,
+.work-widget ul li a:hover,
+.sel-tags .tag-box input[type="checkbox"]:checked+label,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.services-info-block .inner .icon-box,
+.course-info-widget .inner .info-title .course-price,
+.services-info-block .inner .rating .fa,
+.courses-single .student-feedback .rating-title .inner .rating .fa,
+.courses-single .student-comment .comment-inner .student-info .info-inner .rating .fa,
+.event-list .list-inner .icon-box,
+.time-countdown .counter-column .count,
+.list-style-three li:before,
+.gallery-section .filters .filter.active,
+.gallery-section .filters .filter:hover,
+.shop-item .inner-box .lower-content .rating .fa,
+.sidebar .related-posts .shop-post .rating .fa,
+.product-details .basic-details .details-header .rating span,
+.prod-tabs .reviews-container .rating,
+.prod-tabs .add-review .rating .rate-box:hover,
+.prod-tabs .add-review .rating .rate-box:focus,
+.prod-tabs .add-review .rating .rate-box:active,
+.contact-section .info-column .contact-info li .icon-box,
+.fact-counter-two .column .inner .icon-box{
+	color:#ec5252;
+}
+
+/*Background Color*/
+
+.register-section .form-column .form-inner .form-title,
+.register-form .form-group .get-start:hover,
+.btn-style-two:hover,
+.btn-style-three,
+.main-header .btn-box .login-btn,
+.pricing-column.style-two .inner-box:hover,
+.courses-gallery .filters .filter.active,
+.courses-gallery .filters .filter:hover,
+.range-slider-one .ui-slider .ui-slider-range,
+.location-widget .filter-btn,
+.courses-single .accordion-box .block .acc-btn.active .icon-outer .icon-minus,
+.courses-single .student-feedback .rating-column .rate-percentage .colored-layer,
+.sidebar .popular-tags a:hover{
+	background-color:#ec5252;
+}
+
+/*Border Color*/
+
+.register-form .form-group .get-start,
+.btn-style-two,
+.btn-style-two:hover,
+.btn-style-three,
+.social-icon-two li a:hover,
+.social-icon-five li a:hover,
+.courses-gallery .filters .filter.active,
+.courses-gallery .filters .filter:hover,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.sidebar .popular-tags a:hover,
+.gallery-section .filters .filter.active,
+.gallery-section .filters .filter:hover,
+.main-menu .navigation > li > ul > li > ul,
+.main-menu .navigation > li > ul{
+	border-color:#ec5252;
+}
+
+/*RGBA Color*/
+.team-member .inner-box .image .overlay-box,
+.default-gallery-item .inner-box .overlay-box .overlay-inner{
+	background-color:rgba(255,0,0,0.90);
+}
+
+.pricing-column.style-two .inner-box:hover .lower-content .spec-list li.mark-list{
+	color:#ec5252;
+}
+
+/*Focus Color*/
+
+.ticket-widget .form-group input:focus,
+.ticket-widget .form-group textarea:focus,
+.register-form .form-group input:focus,
+.register-form .form-group textarea:focus{
+	border-color:#ec5252;
+}
+
+/*Important Background Color*/
+
+.main-slider .tparrows.preview3.tp-leftarrow:hover,
+.main-slider .tparrows.preview3.tp-rightarrow:hover,
+.rangeslider-widget .noUi-connect{
+	background-color:#ec5252 !important;
+}
+
+/*Important Border Color*/
+
+.main-slider .tparrows.preview3.tp-leftarrow:hover,
+.main-slider .tparrows.preview3.tp-rightarrow:hover{
+	border-color:#ec5252 !important;
+}
