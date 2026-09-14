@@ -34,10 +34,12 @@ public class TestBase {
             browser = playwright.firefox().launch();
         }
         else if("safari".equals(browserName)){
-            browser = playwright.webkit().launch(new BrowserType.LaunchOptions().setHeadless(false));
+           // browser = playwright.webkit().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            browser = playwright.webkit().launch();
         }
         else{
-            browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            //browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            browser = playwright.chromium().launch();
         }
 
         page = browser.newPage();
