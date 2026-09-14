@@ -6,7 +6,7 @@ import com.microsoft.playwright.options.AriaRole;
 public class LoginPage {
     Page page;
     String base_url;
-    private static final String email_placeholder = "learnautomationqa93@gmail.com";
+    private static final String email_placeholder = "testplaywright@gmail.com";
     private static final String password_label = "Admin@123";
 
     //page object should stay independent
